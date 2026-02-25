@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=3000&color=FFEB3B&center=true&width=800&lines=Hii+👋;I+am+Kamini+Singh;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=3000&color=FFEB3B&center=true&width=800&lines=Hii+👋;I+am+Sumit+Singh;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
 </p>
 
 
@@ -60,7 +60,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=student-singhkamini&theme=react-dark" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitcode1410&theme=react-dark" alt="activity graph"/>
 </p>
 
 
